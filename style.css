@@ -1,0 +1,85 @@
+.navbar{
+    background-color: #333;
+}
+.top{
+    text-align: center;
+    padding: 15% 17%;
+    font-size: large;
+    background-image: url(images/showcase.jpeg);
+    color: #fff;
+    
+}
+.music{
+    background-color: #252529;
+    color: white;
+    padding: 5% 3%;
+    text-align: center;
+    font-size: large;
+}
+.ms{
+    float: right;
+    padding-right: 44%;
+}
+.sm{
+    padding-left: 42%;
+    margin-bottom: 3rem;
+}
+.nv{
+    position: fixed;
+    width: 100%;
+    margin-bottom: 3rem;
+    height: 8px;
+}
+.sub{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+.phone{
+    padding-right: 3%;
+    width: 98%;
+    margin-top: 1rem;
+}
+.nav-item{
+    margin: 0.7rem 0.7rem;
+}
+.h{
+    margin-bottom: 4rem;
+}
+.middle{
+    text-align: center;
+    padding: 5% 1%;
+    font-size: large;
+}
+p{
+    line-height: 1.5;
+}
+.mm{
+    margin: 0rem 1rem 1.5rem 1.5rem;
+}
+.end-1{
+    background-image: url(images/section-bg.jpeg);
+    width: 100%;
+    text-align: center;
+    padding: 10% 1%;
+    font-size: large;
+    color: #fff;
+    
+}
+.card{
+    width: 100%;
+    float: left;
+    margin-right: 4rem;
+}
+.end-2{
+    padding: 1% 5% 7% 12%;
+    background-color: white;
+    display: inline-block;
+}
+.gr{
+    float: left;
+    margin-right: 0.4rem;
+}
+.end-3{
+    background-color: #252529;
+    
+}
